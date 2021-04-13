@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Bersakit-Sakit Dahulu",
+        "section": "Nasihat",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Berakit-rakit ke hulu,",
+            "Berenang-renang ke tepian.",
+            "Bersakit-sakit dahulu,",
+            "Bersenang-senang kemudian."
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Kalau Salah, Tolong Tunjukkan",
+        "section": "Nasihat",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Buah cempedak di luar pagar,",
+            "Ambil galah tolong jolokkan.",
+            "Hamba budak baru belajar,",
+            "Kalau salah, tolong tunjukkan."
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Yang Indah Itu Bahasa",
+        "section": "Nasihat",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Yang kurik itu kundi,",
+            "Yang merah itu saga.",
+            "Yang baik itu budi,",
+            "Yang indah itu bahasa."
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Hutang Budi Dibawa Mati",
+        "section": "Nasihat",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Pisang emas dibawa belayar,",
+            "Masak sebiji di atas peti.",
+            "Hutang emas boleh dibayar,",
+            "Hutang budi dibawa mati."
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Budi Yang Baik Dikenang Jua",
+        "section": "Nasihat",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Pulau Pandan jauh ke tengah,",
+            "Gunung Daik bercabang tiga.",
+            "Hancur badan dikandung tanah,",
+            "Budi yang baik dikenang jua."
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Suruh Mengaji Saya Tak Tahu",
+        "section": "Nasihat",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Sorong papan, tarik papan,",
+            "Buah keranji di dalam perahu.",
+            "Suruh makan, saya makan,",
+            "Suruh mengaji, saya tak tahu."
+        ]
+    }
+]
