@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Alam Terkembang Jadikan Guru",
+        "section": "Nasihat",
+        "source": "Teromba Melayu",
+        "content": [
+            "Alam terkembang jadikan guru.",
+            "Kok nak tahu tingginya gunung?",
+            "Tanya pada enggang.",
+            "Kok nak tahu dalamnya lubuk?",
+            "Tanya pada memerang.",
+            "Kok nak tahu lebarnya pantai?",
+            "Tanya pada seluang.",
+            "Kok nak tahu tebalnya hutan?",
+            "Tanya pada pak belang",
+            "Kok nak tahu luasnya padang?",
+            "Tanya pada belalang."
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Adat Putih Bak Kapas",
+        "section": "Nasihat",
+        "source": "Teromba Melayu",
+        "content": [
+            "Adat putih bak kapas,",
+            "Hukum lembut bak air.",
+            "Kok panjang, dikorek.",
+            "Kok bocor, ditampal.",
+            "Kok tiris, dibetul.",
+            "Kok terjun dari langit,",
+            "Sama-sama kita tampung.",
+            "Kok memancut dari bumi,",
+            "Sama-sama kita pijakkan.",
+            "Kok datang dari depan,",
+            "Sama-sama kita hadang.",
+            "Kok datang dari belakang,",
+            "Sama-sama kita hambat."
+        ]
+    }
+]
