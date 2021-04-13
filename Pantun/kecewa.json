@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Hujan Di Tengah Hari",
+        "section": "Kecewa",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Kusangkakan nanas di tengah padang,",
+            "Rupanya pandan yang berduri.",
+            "Kusangkakan panas hingga ke petang,",
+            "Rupanya hujan di tengah hari."
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Barang Lepas Usah Dikenang",
+        "section": "Kecewa",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Asal kapas menjadi benang,",
+            "Dari benang dibuat kain.",
+            "Barang lepas usah dikenang,",
+            "Sudah menjadi hak yang lain."
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Saya Terkenang, Orang Benci",
+        "section": "Kecewa",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Anak buaya terenang-renang,",
+            "Anak kunci dalam perahu.",
+            "Hanya saya terkenang-kenang,",
+            "Orang benci, saya tak tahu."
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Anak Sungai Lagikan Berubah",
+        "section": "Kecewa",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Anak punai, anak merbah,",
+            "Hinggap ditonggak mencari sarang.",
+            "Anak sungai lagikan berubah,",
+            "Inikan pula hati orang."
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Luka Di Hati, Siapa Tahu?",
+        "section": "Kecewa",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Buah berangan masaknya merah,",
+            "Kelekati dalam perahu.",
+            "Luka di tangan nampak berdarah,",
+            "Luka di hati, siapa tahu?"
+        ]
+    }
+]
