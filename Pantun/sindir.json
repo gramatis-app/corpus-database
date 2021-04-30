@@ -13,18 +13,6 @@
     },
     {
         "id": 2,
-        "title": "Kajang Pak Malau",
-        "section": "Sindir",
-        "source": "Pantun Rumpun Melayu",
-        "content": [
-            "Kajang Pak Malau, kajang berlipat,",
-            "Kajang hamba, mengkuang layu.",
-            "Dagang Pak Malau, dagang bertempat,",
-            "Dagang hamba, musafir lalu."
-        ]
-    },
-    {
-        "id": 3,
         "title": "Kalau Jadi Katakan Jadi",
         "section": "Sindir",
         "source": "Pantun Rumpun Melayu",
@@ -36,7 +24,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": 3,
         "title": "Jiwa Dan Raga, Hamba Serahkan",
         "section": "Sindir",
         "source": "Pantun Rumpun Melayu",
@@ -48,7 +36,7 @@
         ]
     },
     {
-        "id": 5,
+        "id": 4,
         "title": "Esok Jangan Rindu-Rinduan",
         "section": "Sindir",
         "source": "Pantun Rumpun Melayu",
@@ -60,7 +48,7 @@
         ]
     },
     {
-        "id": 6,
+        "id": 5,
         "title": "Jangan Disimpan Di Dalam Hati",
         "section": "Sindir",
         "source": "Pantun Rumpun Melayu",
@@ -72,7 +60,7 @@
         ]
     },
     {
-        "id": 7,
+        "id": 6,
         "title": "Hari Esok Kita Bersurai",
         "section": "Sindir",
         "source": "Pantun Rumpun Melayu",
