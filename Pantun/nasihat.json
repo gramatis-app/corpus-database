@@ -70,5 +70,65 @@
             "Suruh makan, saya makan,",
             "Suruh mengaji, saya tak tahu."
         ]
+    },
+    {
+        "id": 7,
+        "title": "Dunia Itu Main-Mainan",
+        "section": "Nasihat",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Peria itu tanam-tanaman,",
+            "Di darat juga tumbuhnya.",
+            "Dunia itu main-mainan,",
+            "Akhirat juga sungguhnya."
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Pilih-Pilih Sahabat Berbudi",
+        "section": "Nasihat",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Pilih-pilih tempat menjadi,",
+            "Pertama teluk, kedua pantai.",
+            "Pilih-pilih sahabat berbudi,",
+            "Pertama elok, kedua pandai."
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Apakah Tanda Orang Berbudi?",
+        "section": "Nasihat",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Apakah tanda kerang berisi?",
+            "Bila direbus, kulitnya merekah.",
+            "Apakah tannda orang berbudi?",
+            "Bila disebut, dirinya merendah."
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Budi Yang Baik Dikenang Juga",
+        "section": "Nasihat",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Pulau Pandan jauh ke tengah,",
+            "Gunung Daik bercabang tiga.",
+            "Hancur badan dikandung tanah,",
+            "Budi yang baik dikenang juga."
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Ilmu Itu Pelindung Diri",
+        "section": "Nasihat",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Ilmu itu pelindung diri,",
+            "Ibarat kebun berpagar duri.",
+            "Seperti sinar intan baiduri,",
+            "Itulah tanda orang jauhari."
+        ]
     }
 ]
