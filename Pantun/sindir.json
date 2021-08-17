@@ -70,5 +70,51 @@
             "Hari ini kita sekampung,",
             "Hari esok kita bersurai."
         ]
+    },
+    {
+        "id": 7,
+        "title": "Dalam Pantun Ada Bicara",
+        "section": "Sindir",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Minta daun diberi kebun,",
+            "Dalam kebun ada bidara.",
+            "Minta santun diberi pantun,",
+            "Dalam pantun ada bicara."
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Habis Budi, Kami Dibuang",
+        "section": "Sindir",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Apalah diharapkan jerami?",
+            "Habis padi, jerami dibuang.",
+            "Apalah diharapkan kami?",
+            "Habis budi, kami dibuang."
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Kalau Tak Sungguh, Tak Mengata",
+        "section": "Sindir",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Kalau tak tumbuh, tak melata,",
+            "Kalau tak sungguh, tak mengata."
+        ]
+    }, 
+    {
+        "id": 10,
+        "title": "Dalam Pantun Menanam Makna",
+        "section": "Sindir",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Orang berkebun, saya berkebun,",
+            "Dalam kebun, menanam bunga.",
+            "Orang berpantun, saya berpantun,",
+            "Dalam pantun, menanam makna."
+        ]
     }
 ]
