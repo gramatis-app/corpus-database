@@ -142,5 +142,29 @@
             "Kayu terbakar nampak asapnya,",
             "Hati terbakar siapa yang tahu?"
         ]
+    },
+    {
+        "id": 13,
+        "title": "Bergurau, Bergurau juga.",
+        "section": "Nasihat",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Ke danau, ke danau juga,",
+            "Ke tanjung jangan.",
+            "Bergurau, bergurau juga,",
+            "Menyinggung jangan."
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Kalau Nak Kenal Anak Melayu",
+        "section": "Nasihat",
+        "source": "Pantun Rumpun Melayu",
+        "content": [
+            "Kalau nak kenal pokok semalu,",
+            "Terpijak ranting daun terkulai.",
+            "Kalau nak kenal anak Melayu,",
+            "Terpencak langkah keris pun sampai."
+        ]
     }
 ]
